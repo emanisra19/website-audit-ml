@@ -1,0 +1,14 @@
+heading_hierarchy_score
+information_architecture_score
+cta_presence_score
+conversion_ux_signal
+content_density_signal
+mobile_content_density_signal
+visual_clutter_score
+mobile_visual_clutter_score
+visual_balance_score
+mobile_visual_balance_score
+mobile_interaction_signal
+mobile_small_button_penalty
+mobile_image_overflow_penalty
+contactability_ux_signal

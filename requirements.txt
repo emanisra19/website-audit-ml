@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+joblib
+numpy
+pandas
+scikit-learn
+requests
+beautifulsoup4
+playwright
+opencv-python-headless

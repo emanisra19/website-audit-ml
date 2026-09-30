@@ -1,0 +1,14 @@
+first_contentful_paint
+largest_contentful_paint
+speed_index
+interactive
+total_blocking_time
+cumulative_layout_shift
+server_response_time
+bootup_time
+total_resources
+total_transfer_size
+script_resources
+image_resources
+stylesheet_resources
+font_resources
